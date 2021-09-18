@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+h1{
+  font-size: 6rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 20px;
+  color: #66BFBF;
+  font-weight: bold;
+}
+
+h3{
+  color: #11999E;
+}
+
+.top{
+  position: relative;
+  background-color: #E8F6EF;
+  padding-top: 100px ;
+
+}
+
+a{
+  color: #11999E;
+}
+
+p{
+  font-family: 'Merriweather', sans-serif;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.saujanya{
+  height: 200px;
+  width: 200px;
+  margin-top: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin : 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+
+}
+.chillies{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
